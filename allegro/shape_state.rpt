@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dynamic Shape Status                                             )
+(                                                                     )
+(    Drawing          : AVRUSB500.brd                                 )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Fri Jul 19 10:03:15 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 1 out of 3
+  Current fill mode         : SMOOTH
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+       State: No Etch      Point on shape: (259.7150 278.1300)  Net: +5V

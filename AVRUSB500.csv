@@ -1,0 +1,5 @@
+Name,Type,Page,Page Number,Schematic,PartPin,LocationX,LocationY,Zone,IREF
+"TxD","OffPage","PAGE2","2","SCHEMATIC1","IC1.3","251","206","4C","kk3B1kk"
+"TxD","OffPage","PAGE1","1","SCHEMATIC1","U1.25","517","442","3B","kk4C2kk"
+"RxD","OffPage","PAGE2","2","SCHEMATIC1","IC1.2","252","196","4C","kk3B1kk"
+"RxD","OffPage","PAGE1","1","SCHEMATIC1","U1.24","591","455","3B","kk4C2kk"

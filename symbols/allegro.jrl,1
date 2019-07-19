@@ -1,0 +1,202 @@
+\t (00:00:43) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:43)     Journal start - Thu Jul 18 13:19:41 2019
+\t (00:00:43)         Host=USER-PC User=user Pid=6044 CPUs=4
+\t (00:00:43) CmdLine= allegro.exe -p .
+\t (00:00:43) 
+\t (00:00:43) Starting new design...
+\i (00:00:43) trapsize 2623
+\i (00:00:43) trapsize 2516
+\i (00:00:43) trapsize 2598
+\i (00:00:43) trapsize 2740
+\i (00:00:43) trapsize 2740
+\i (00:00:43) trapsize 2740
+\i (00:00:43) generaledit 
+\i (00:00:47) prmed 
+\i (00:00:57) setwindow form.prmedit
+\i (00:00:57) FORM prmedit display_plated_holes YES 
+\i (00:00:58) FORM prmedit display_non_plated_holes YES 
+\i (00:00:58) FORM prmedit display_thermal YES 
+\i (00:00:59) FORM prmedit display_fat_rats YES 
+\i (00:00:59) FORM prmedit waived_drc_on YES 
+\i (00:01:00) FORM prmedit via_labels YES 
+\i (00:01:00) FORM prmedit dp_driver_pins YES 
+\i (00:01:01) FORM prmedit secondary_step_model YES 
+\i (00:01:02) FORM prmedit design  
+\i (00:01:08) FORM prmedit x 140.000 
+\i (00:01:41) FORM prmedit y 100.000 
+\i (00:01:43) FORM prmedit x -140.000 
+\i (00:01:51) FORM prmedit y -110.000 
+\i (00:01:51) FORM prmedit done  
+\i (00:01:51) setwindow pcb
+\i (00:01:51) trapsize 2740
+\i (00:01:51) generaledit 
+\i (00:01:53) open 
+\e (00:01:54) Do you want to save the changes you made to MICRO.dra?
+\i (00:01:57) fillin no 
+\i (00:02:03) fillin "micro_usb.dra"
+\t (00:02:03) Opening existing design...
+\i (00:02:03) trapsize 85
+\d (00:02:03) Design opened: C:/Users/user/Desktop/work/avrusb500/symbols/micro_usb.dra
+\i (00:02:04) generaledit 
+\i (00:02:04) zoom out 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom out 0.699 2.484
+\t (00:02:04) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:02:04) trapsize 171
+\i (00:02:04) zoom out 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom out 0.701 2.484
+\t (00:02:04) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:02:04) trapsize 341
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 0.700 2.484
+\t (00:02:05) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (00:02:05) trapsize 682
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 0.701 2.484
+\t (00:02:05) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (00:02:05) trapsize 1365
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 33.069 6.268
+\i (00:02:05) trapsize 1365
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 33.069 6.268
+\i (00:02:05) trapsize 1365
+\i (00:02:06) open 
+\i (00:02:08) fillin "ab00.dra"
+\t (00:02:08) Opening existing design...
+\i (00:02:08) trapsize 17
+\d (00:02:08) Design opened: C:/Users/user/Desktop/work/avrusb500/symbols/ab00.dra
+\i (00:02:08) generaledit 
+\i (00:02:09) open 
+\e (00:02:10) Do you want to save the changes you made to ab00.dra?
+\i (00:02:10) fillin no 
+\i (00:02:14) fillin "micro_usb.dra"
+\t (00:02:14) Opening existing design...
+\i (00:02:14) trapsize 85
+\d (00:02:14) Design opened: C:/Users/user/Desktop/work/avrusb500/symbols/micro_usb.dra
+\i (00:02:14) generaledit 
+\i (00:02:15) zoom out 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom out -5.272 5.828
+\t (00:02:15) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:02:15) trapsize 171
+\i (00:02:15) zoom out 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom out -5.271 5.828
+\t (00:02:15) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:02:15) trapsize 341
+\i (00:02:15) zoom out 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom out -5.272 5.828
+\t (00:02:15) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (00:02:15) trapsize 682
+\i (00:02:15) zoom out 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom out -5.271 5.828
+\t (00:02:15) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (00:02:15) trapsize 1365
+\i (00:02:15) zoom out 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom out -62.474 59.772
+\i (00:02:15) trapsize 1365
+\i (00:02:16) zoom out 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom out -92.502 83.521
+\i (00:02:16) trapsize 1365
+\i (00:02:16) zoom out 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom out -92.502 83.248
+\i (00:02:16) trapsize 1365
+\i (00:02:16) zoom out 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom out -92.502 83.248
+\i (00:02:16) trapsize 1365
+\i (00:02:16) zoom out 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom out -92.502 83.248
+\i (00:02:16) trapsize 1365
+\i (00:02:16) zoom out 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom out -92.502 83.248
+\i (00:02:16) trapsize 1365
+\i (00:02:18) define grid 
+\t (00:02:18) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:02:18) generaledit 
+\i (00:02:19) setwindow form.grid
+\i (00:02:19) FORM grid done  
+\i (00:02:23) setwindow pcb
+\i (00:02:23) prmed 
+\i (00:02:25) setwindow form.prmedit
+\i (00:02:25) FORM prmedit display  
+\i (00:02:27) FORM prmedit cancel  
+\i (00:02:27) setwindow pcb
+\i (00:02:27) generaledit 
+\i (00:02:29) zoom in 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom in -1.873 1.901
+\t (00:02:29) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (00:02:29) trapsize 682
+\i (00:02:29) zoom in 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom in -1.873 1.901
+\t (00:02:29) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:02:29) trapsize 341
+\i (00:02:29) zoom in 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom in -1.872 1.901
+\t (00:02:29) Grids are drawn 0.200, 0.200 apart for enhanced viewability.
+\i (00:02:29) trapsize 171
+\i (00:02:29) zoom in 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom in -1.872 1.901
+\i (00:02:29) trapsize 85
+\i (00:02:29) zoom in 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom in -1.872 1.901
+\i (00:02:29) trapsize 43
+\i (00:02:29) zoom in 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom in -1.872 1.901
+\i (00:02:29) trapsize 21
+\i (00:02:30) zoom out 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom out -1.872 1.901
+\i (00:02:30) trapsize 43
+\i (00:02:30) zoom out 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom out -1.872 1.902
+\i (00:02:30) trapsize 85
+\i (00:02:30) zoom out 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom out -1.871 1.901
+\i (00:02:30) trapsize 171
+\i (00:02:30) zoom out 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom out -1.871 1.902
+\t (00:02:30) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:02:30) trapsize 341
+\i (00:02:30) zoom out 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom out -1.872 1.902
+\t (00:02:30) Grids are drawn 0.800, 0.800 apart for enhanced viewability.
+\i (00:02:30) trapsize 683
+\i (00:02:31) zoom out 1 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) zoom out -1.872 1.901
+\t (00:02:31) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (00:02:31) trapsize 1365
+\i (00:02:31) zoom out 1 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) zoom out -1.873 1.901
+\i (00:02:31) trapsize 1365
+\i (00:02:31) zoom out 1 
+\i (00:02:31) setwindow pcb
+\i (00:02:31) zoom out -1.873 1.901
+\i (00:02:31) trapsize 1365
+\i (00:03:15) exit 
+\t (00:03:15)     Journal end - Thu Jul 18 13:22:14 2019

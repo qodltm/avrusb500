@@ -1,0 +1,9 @@
+\t (00:00:37) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:37)     Journal start - Thu Jul 18 15:02:12 2019
+\t (00:00:37)         Host=USER-PC User=user Pid=1424 CPUs=4
+\t (00:00:37) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\Users\user\Desktop\work\avrusb500\allegro\AVRUSB500.brd.lck
+\t (00:00:37) 
+\d (00:00:37) Design opened: C:/Users/user/Desktop/work/avrusb500/symbols/micro_usb.dra
+\i (00:00:37) generaledit 
+\i (00:00:39) exit 
+\t (00:00:39)     Journal end - Thu Jul 18 15:02:14 2019
